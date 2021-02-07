@@ -3,11 +3,11 @@ const initState = {
     {
       id: 0,
       taskName: "Go to the college",
-      date: "12/2/2020",
+      date: "6/2/2021",
       isComplete: true,
     },
-    { id: 1, taskName: "take breakfast", date: "12/2/2020", isComplete: true },
-    { id: 2, taskName: "Do some code", date: "12/2/2020", isComplete: true },
+    { id: 1, taskName: "take breakfast", date: "5/2/2021", isComplete: true },
+    { id: 2, taskName: "Do some code", date: "4/2/2021", isComplete: true },
   ],
 };
 
