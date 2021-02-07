@@ -1,4 +1,4 @@
-live demo link:-- <a href="https://github.com/khan-tanveer/fyntune-todo-app">TODO APP</a>
+live demo link:-- <a href=" https://fyntune-todo-app.web.app">TODO APP</a>
 
 # Getting Started with Create React App
 
